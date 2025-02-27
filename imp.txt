@@ -1,0 +1,418 @@
+<!-- Games Included in Olympics Section -->
+<section id="games" class="games-section">
+  <div class="container">
+    <h2 class="section-title text-center">Games Included in Olympics</h2>
+    <div class="row">
+      <!-- Game 1 -->
+      <div class="col-md-4">
+        <div class="game-card">
+          <div class="game-img-container">
+            <img src="games/boxing-2.avif" alt="Athletics" class="game-img">
+          </div>
+          <div class="game-info">
+            <h4>Boxing</h4>
+            <p>Fighting Events</p>
+          </div>
+        </div>
+      </div>
+      <!-- Game 2 -->
+      <div class="col-md-4">
+        <div class="game-card">
+          <div class="game-img-container">
+            <img src="games/swimiing.jpg" alt="Swimming" class="game-img">
+          </div>
+          <div class="game-info">
+            <h4>Swimming</h4>
+            <p>Aquatic Events</p>
+          </div>
+        </div>
+      </div>
+      <!-- Game 3 -->
+      <div class="col-md-4">
+        <div class="game-card">
+          <div class="game-img-container">
+            <img src="games/basket..jpeg" alt="Basketball" class="game-img">
+          </div>
+          <div class="game-info">
+            <h4>Basketball</h4>
+            <p>Team Sport</p>
+          </div>
+        </div>
+      </div>
+      <!-- Game 4 -->
+      <div class="col-md-4">
+        <div class="game-card">
+          <div class="game-img-container">
+            <img src="games/gymna.jpg" alt="Gymnastics" class="game-img">
+          </div>
+          <div class="game-info">
+            <h4>Gymnastics</h4>
+            <p>Artistic Gymnastics</p>
+          </div>
+        </div>
+      </div>
+      <!-- Game 5 -->
+      <div class="col-md-4">
+        <div class="game-card">
+          <div class="game-img-container">
+            <img src="games/football.avif" alt="Football" class="game-img">
+          </div>
+          <div class="game-info">
+            <h4>Football</h4>
+            <p>Team Sport</p>
+          </div>
+        </div>
+      </div>
+      <!-- Game 6 -->
+      <div class="col-md-4">
+        <div class="game-card">
+          <div class="game-img-container">
+            <img src="games/tennis.webp" alt="Tennis" class="game-img">
+          </div>
+          <div class="game-info">
+            <h4>Tennis</h4>
+            <p>Racket Sport</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+ <!-- End-->
+
+     
+ <!-- History of Previous Events Section -->
+<section id="history" class="history-section">
+  <div class="container">
+    <h2 class="section-title text-center">History of Previous Events</h2>
+    <div class="row">
+      <!-- History Card 1 -->
+      <div class="col-md-4">
+        <div class="history-card">
+          <h4>1896: First Modern Olympics</h4>
+          <p>The first modern Olympic Games were held in Athens, Greece, with 14 nations participating. This was the revival of the ancient Greek Olympic Games after more than 1,500 years.</p>
+        </div>
+      </div>
+      <!-- History Card 2 -->
+      <div class="col-md-4">
+        <div class="history-card">
+          <h4>1936: Berlin Olympics</h4>
+          <p>The Berlin Games saw Jesse Owens, an African American athlete, winning 4 gold medals, challenging Nazi ideology of racial superiority.</p>
+        </div>
+      </div>
+      <!-- History Card 3 -->
+      <div class="col-md-4">
+        <div class="history-card">
+          <h4>1968: Mexico City</h4>
+          <p>During the medal ceremony, Tommie Smith and John Carlos gave the Black Power salute, becoming an iconic moment of protest against racial inequality.</p>
+        </div>
+      </div>
+      <!-- History Card 4 -->
+      <div class="col-md-4">
+        <div class="history-card">
+          <h4>1980: Moscow Olympics Boycott</h4>
+          <p>The United States led a boycott of the Moscow Olympics in protest of the Soviet Union's invasion of Afghanistan, with many countries refusing to participate.</p>
+        </div>
+      </div>
+      <!-- History Card 5 -->
+      <div class="col-md-4">
+        <div class="history-card">
+          <h4>1996: Centennial Olympic Games</h4>
+          <p>The Atlanta Games marked the 100th anniversary of the modern Olympics, highlighted by Muhammad Ali lighting the Olympic torch.</p>
+        </div>
+      </div>
+      <!-- History Card 6 -->
+      <div class="col-md-4">
+        <div class="history-card">
+          <h4>2008: Beijing Olympics</h4>
+          <p>Beijing hosted one of the most spectacular Olympics ever, with China leading the medal count and the opening ceremony becoming a defining moment in Olympic history.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+ <!-- End-->
+
+
+ <!-- STATISTICS & RECORDS START -->
+
+<section id="statistics" class="stats-section">
+  <div class="container">
+      <h2 class="text-center">Statistics & Records</h2>
+      <div class="row">
+          <!-- Record 1 -->
+          <div class="col-lg-4 col-md-6 stat-box">
+              <div class="stat-content">
+                  <h3 class="stat-number" data-count="100">1,117</h3>
+                  <p class="stat-text">Gold Medals Won by USA</p>
+              </div>
+          </div>
+
+          <!-- Record 2 -->
+          <div class="col-lg-4 col-md-6 stat-box">
+              <div class="stat-content">
+                  <h3 class="stat-number" data-count="92">17</h3>
+                  <p class="stat-text">World Records Broken In 2024</p>
+              </div>
+          </div>
+
+          <!-- Record 3 -->
+          <div class="col-lg-4 col-md-6 stat-box">
+              <div class="stat-content">
+                  <h3 class="stat-number" data-count="204">206</h3>
+                  <p class="stat-text">Participating Countries</p>
+              </div>
+          </div>
+      </div>
+  </div>
+</section>
+
+ <!-- End -->
+     
+
+ <!-- Upcoming Events Section -->
+<section id="upcoming-events" class="upcoming-events-section">
+  <div class="container">
+    <h2 class="section-title text-center">Upcoming Olympic Events</h2>
+    <div class="row">
+      <!-- Event Card 1 -->
+      <div class="col-md-4">
+        <div class="event-card">
+          <h4>Paris 2024 Summer Olympics</h4>
+          <p>Date: July 26 - August 11, 2024</p>
+          <p>Location: Paris, France</p>
+          <p>Details: The Summer Olympics return to Paris for the first time since 1924, promising spectacular sporting events in historic venues.</p>
+        </div>
+      </div>
+      <!-- Event Card 2 -->
+      <div class="col-md-4">
+        <div class="event-card">
+          <h4>Milan-Cortina 2026 Winter Olympics</h4>
+          <p>Date: February 6 - February 22, 2026</p>
+          <p>Location: Milan and Cortina d'Ampezzo, Italy</p>
+          <p>Details: The Winter Olympics will be held across these two iconic cities, featuring ski sports in the beautiful Italian Alps.</p>
+        </div>
+      </div>
+      <!-- Event Card 3 -->
+      <div class="col-md-4">
+        <div class="event-card">
+          <h4>Los Angeles 2028 Summer Olympics</h4>
+          <p>Date: July 21 - August 6, 2028</p>
+          <p>Location: Los Angeles, USA</p>
+          <p>Details: LA will host the Summer Olympics for the third time, featuring state-of-the-art venues and the largest sporting competition of the decade.</p>
+        </div>
+      </div>
+      <!-- Event Card 4 -->
+      <div class="col-md-4">
+        <div class="event-card">
+          <h4>Brisbane 2032 Summer Olympics</h4>
+          <p>Date: July 23 - August 8, 2032</p>
+          <p>Location: Brisbane, Australia</p>
+          <p>Details: Brisbane will host its first-ever Summer Olympics, bringing the Games back to Australia for the first time since Sydney 2000.</p>
+        </div>
+      </div>
+      <!-- Event Card 5 -->
+      <div class="col-md-4">
+        <div class="event-card">
+          <h4>Future Winter Olympics</h4>
+          <p>Date: To Be Announced</p>
+          <p>Location: TBD</p>
+          <p>Details: The bidding process for the 2030 Winter Olympics is ongoing, with potential hosts vying to be the next winter destination.</p>
+        </div>
+      </div>
+      <!-- Event Card 6 -->
+      <div class="col-md-4">
+        <div class="event-card">
+          <h4>Future Summer Olympics</h4>
+          <p>Date: To Be Announced</p>
+          <p>Location: TBD</p>
+          <p>Details: Beyond Brisbane 2032, the next Summer Olympic host city will soon be selected to carry forward the Olympic legacy.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--End-->
+
+
+<!-- Related News Section -->
+<div class="container my-5" id="related-news">
+  <h2 class="text-center mb-4">Related News</h2>
+  
+  <div class="row">
+      <!-- News 1 -->
+      <div class="col-md-4">
+          <div class="news-card">
+              <h5>Olympics 2024: Preparations in Full Swing</h5>
+              <p class="news-description">Preparations for the 2024 Summer Olympics in Paris are underway, with venues and infrastructure nearing completion.</p>
+          </div>
+      </div>
+
+      <!-- News 2 -->
+      <div class="col-md-4">
+          <div class="news-card">
+              <h5>Record-Breaking Performance Expected in Athletics</h5>
+              <p class="news-description">Athletes are gearing up to break world records in track and field events at the upcoming Olympic Games.</p>
+          </div>
+      </div>
+
+      <!-- News 3 -->
+      <div class="col-md-4">
+          <div class="news-card">
+              <h5>New Sports Added to the Olympic Program</h5>
+              <p class="news-description">The International Olympic Committee has added several new sports to the 2024 Games, including skateboarding and surfing.</p>
+          </div>
+      </div>
+  </div>
+
+  <div class="row">
+      <!-- News 4 -->
+      <div class="col-md-4">
+          <div class="news-card">
+              <h5>Olympic Torch Relay: Route Announced</h5>
+              <p class="news-description">The route for the Olympic torch relay has been announced, spanning several countries before reaching Paris for the opening ceremony.</p>
+          </div>
+      </div>
+
+      <!-- News 5 -->
+      <div class="col-md-4">
+          <div class="news-card">
+              <h5>Security Measures for the 2024 Olympics</h5>
+              <p class="news-description">Paris has ramped up security measures to ensure the safety of athletes, officials, and spectators during the 2024 Olympic Games.</p>
+          </div>
+      </div>
+
+      <!-- News 6 -->
+      <div class="col-md-4">
+          <div class="news-card">
+              <h5>Tickets for the Olympics: Demand Soars</h5>
+              <p class="news-description">Ticket sales for the 2024 Olympics have seen unprecedented demand, with most events sold out within hours of release.</p>
+          </div>
+      </div>
+  </div>
+</div>
+
+
+<!--End-->
+
+<!-- FAQ Section -->
+<div class="faq-section" id="faq">
+  <h2 class="section-title">Frequently Asked Questions</h2>
+
+  <!-- FAQ 1 -->
+  <div class="faq-item">
+    <h5 class="faq-question">What is the Olympics?</h5>
+    <p class="faq-answer">The Olympics are a leading international sporting event featuring summer and winter sports competitions in which thousands of athletes participate in various games and events.</p>
+  </div>
+
+  <!-- FAQ 2 -->
+  <div class="faq-item">
+    <h5 class="faq-question">How often are the Olympic Games held?</h5>
+    <p class="faq-answer">The Olympic Games are held every four years, alternating between Summer and Winter Olympics every two years.</p>
+  </div>
+
+  <!-- FAQ 3 -->
+  <div class="faq-item">
+    <h5 class="faq-question">Who can participate in the Olympics?</h5>
+    <p class="faq-answer">Any athlete who meets the qualifications set by their sport's governing body and represents a recognized National Olympic Committee can participate in the Games.</p>
+  </div>
+
+  <!-- FAQ 4 -->
+  <div class="faq-item">
+    <h5 class="faq-question">What are the Olympic symbols?</h5>
+    <p class="faq-answer">The Olympic symbols include the five interlocking rings, representing the unity of the five inhabited continents, the Olympic flame, and the official Olympic motto: "Citius, Altius, Fortius" (Faster, Higher, Stronger).</p>
+  </div>
+
+  <!-- FAQ 5 -->
+  <div class="faq-item">
+    <h5 class="faq-question">When was the first modern Olympics held?</h5>
+    <p class="faq-answer">The first modern Olympic Games were held in Athens, Greece, in 1896.</p>
+  </div>
+
+  <!-- FAQ 6 -->
+  <div class="faq-item">
+    <h5 class="faq-question">How is the host city for the Olympics chosen?</h5>
+    <p class="faq-answer">The host city is chosen by the International Olympic Committee (IOC) through a bidding process in which cities submit proposals and demonstrate their ability to host the Games.</p>
+  </div>
+
+  <!-- FAQ 7 -->
+  <div class="faq-item">
+    <h5 class="faq-question">What sports are included in the Olympics?</h5>
+    <p class="faq-answer">The Olympics feature a wide variety of sports, ranging from athletics and swimming to newer sports like skateboarding and surfing.</p>
+  </div>
+
+  <!-- FAQ 8 -->
+  <div class="faq-item">
+    <h5 class="faq-question">What are the Paralympic Games?</h5>
+    <p class="faq-answer">The Paralympic Games are a major international sports competition for athletes with disabilities, held immediately after the Olympic Games using the same venues.</p>
+  </div>
+
+  <!-- FAQ 9 -->
+  <div class="faq-item">
+    <h5 class="faq-question">How are athletes selected for the Olympics?</h5>
+    <p class="faq-answer">Athletes are selected for the Olympics by their respective National Olympic Committees, based on their performance in qualifying competitions.</p>
+  </div>
+
+  <!-- FAQ 10 -->
+  <div class="faq-item">
+    <h5 class="faq-question">What is the Olympic motto?</h5>
+    <p class="faq-answer">The Olympic motto is "Citius, Altius, Fortius," which is Latin for "Faster, Higher, Stronger."</p>
+  </div>
+</div>
+
+</body>
+</html>
+
+
+
+
+
+
+
+<!-- Footer Section -->
+<!-- Footer Section -->
+<footer class="footer">
+  <div class="container">
+    <div class="row">
+      <!-- Footer Column 1: Logo -->
+      <div class="col-md-3">
+        <img src="logo/op-1-removebg-preview.png" alt="Olympics Logo" class="footer-logo">
+      </div>
+      <!-- Footer Column 2: About -->
+      <div class="col-md-3">
+        <h4>About Us</h4>
+        <p>We are dedicated to providing the latest updates on the Olympic Games, athletes, and related events. Stay connected and informed with us!</p>
+      </div>
+      <!-- Footer Column 3: Useful Links -->
+      <div class="col-md-3">
+        <h4>Useful Links</h4>
+        <ul class="footer-links">
+          <li><a href="#olympicSlider">Home</a></li>
+          <li><a href="#a-us">About Us</a></li>
+          <li><a href="#gallery">Gallery</a></li>
+          <li><a href="#athletes">Athletes</a></li>
+          <li><a href="#statistics">Statistics</a></li>
+        </ul>
+      </div>
+      <!-- Footer Column 4: Contact & Social Media -->
+      <div class="col-md-3">
+        <h4>Contact</h4>
+        <p>Email: info@olympics.com</p>
+        <p>Phone: +123 456 7890</p>
+        <div class="social-media">
+          <a href="#" class="social-icon"><i class="fab fa-facebook-f"></i></a>
+          <a href="#" class="social-icon"><i class="fab fa-twitter"></i></a>
+          <a href="#" class="social-icon"><i class="fab fa-instagram"></i></a>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom text-center">
+      <p>&copy; 2024 Olympics. All rights reserved.</p>
+    </div>
+  </div>
+</footer>
+
+<!--End-->
